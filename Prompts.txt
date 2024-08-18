@@ -18,4 +18,4 @@ make the dataframe 13 columns wide. put the peak of the pyramid on column 7 and 
 =====================
 gemini 13-8-2024:
 prompt1:
-make a python program that checks for combinations of two words in an input sentences like 'is it' and then it will categorize it as a sentence. use more two word combinations for this
+make a python program that checks for combinations of two words in an input sentences like 'is it' and then it will categorize it as a question. use twenty two word combinations for this.
