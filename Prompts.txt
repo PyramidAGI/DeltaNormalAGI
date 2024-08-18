@@ -1,0 +1,21 @@
+Claude
+prompt1:
+
+use the behaviorblocks in the attached file to fill a python dataframe. make a pyramid structure inside the dataframe of the behaviorblocks. print two versions of such a pyramid dataframe
+
+i want two random versions of the dataframe pyramid with the same size. there can be empty cells in the pyramid, so a sparse population
+
+can you write the dataframes to a file and add a timestamp
+
+can you add dummy strings with only dashes in them to preserve the pyramid shape when writing to file
+
+the amount of dash strings is too high, decrease that with about 30%
+
+can you add more behaviorblocks to the left side of the pyramid. multiple behaviorblocks can be in one row, but also still keep the dash strings
+
+make the dataframe 13 columns wide. put the peak of the pyramid on column 7 and make sure that behaviorblocks are shown on the left side and on the right side. we can have multiple behaviorblocks per row, also in the sparse version
+
+=====================
+gemini 13-8-2024:
+prompt1:
+make a python program that checks for combinations of two words in an input sentences like 'is it' and then it will categorize it as a sentence. use more two word combinations for this

@@ -1,0 +1,28 @@
+025	INMI COOMO
+026	improver
+027	analyzer
+028	decider
+029	occam's razor
+030	diluter
+031	economizer
+032	delta
+033	maximizer
+034	reducer
+035	carer
+036	monetizer
+037	influencer
+038	maintainer
+039	filter
+040	transformer
+041	stimulator
+042	modeler
+043	mirrorer
+044	agglomerator
+045	populator
+046	shielder
+047	contract-maker
+048	trainer
+049	router
+050	classifier
+051	patterner
+052	designer
